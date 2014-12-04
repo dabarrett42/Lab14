@@ -33,13 +33,12 @@ int main()
 
    //DO THIS
    //thoroughly test your table
-
-
-
-
-
-
-
+   
+   
+   
+   
+   
+   
    deleteCDs(cds);
    delete cds;
    delete slt;
